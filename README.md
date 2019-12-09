@@ -40,5 +40,6 @@
 
 # To enjoy our project please click on the Gif belw to view it on nbviewer by jupyter.
 
+<!-- [![FVCproductions](https://s4.gifyu.com/images/ezgif-5-a8bcda1316a9-1.gif)](http://fvcproductions.com) -->
 [![](https://s4.gifyu.com/images/ezgif-5-a8bcda1316a9-1.gif)](https://nbviewer.jupyter.org/github/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/Faris.ipynb)
 

@@ -36,7 +36,7 @@
 - Doing some initial analysis
 - Give our client  recommended listing
 
-# To enjoy our project please click on the Gif belw to view it on nbviewer by jupyter.
+# To enjoy our project please click on the Gif below to view it on nbviewer by jupyter.
 
 [![](https://github.com/Farisalenezy/hello-world/blob/master/ezgif.com-optimize.gif)](https://nbviewer.jupyter.org/github/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/Faris.ipynb)
 

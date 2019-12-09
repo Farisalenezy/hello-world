@@ -10,12 +10,10 @@
 
 ---
 
-<br>
+
 <img src="https://i.imgur.com/IcMiyyD.png"
      alt="map 3"
      style="float: left; margin-right: 10px;" />
-<br>
-<br>
 
 
 
@@ -40,6 +38,5 @@
 
 # To enjoy our project please click on the Gif belw to view it on nbviewer by jupyter.
 
-<!-- [![FVCproductions](https://github.com/Farisalenezy/hello-world/blob/master/ezgif.com-optimize.gif)](http://fvcproductions.com) -->
 [![](https://github.com/Farisalenezy/hello-world/blob/master/ezgif.com-optimize.gif)](https://nbviewer.jupyter.org/github/Fairfield-University-BA505/final-project-fa2019-international-dt/blob/master/Faris.ipynb)
 

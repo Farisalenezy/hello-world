@@ -16,9 +16,7 @@
      style="float: left; margin-right: 10px;" />
 <br>
 <br>
-<br>
-<br><br><br>
-<br><br><br><br><br>
+
 
 
 #### Python Project
